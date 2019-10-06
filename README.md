@@ -1,2 +1,1 @@
-# Computer Add
-### Phone add at Phone/ 
+# 用于手机和电脑同步的一些文件放在这里
